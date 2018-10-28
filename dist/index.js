@@ -1,0 +1,6 @@
+'use strict';
+
+var _ManifoldViewer = require('./ManifoldViewer');
+
+module.exports = { ManifoldViewer: _ManifoldViewer.ManifoldViewer };
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uL3NyYy9saWIvaW5kZXguanMiXSwibmFtZXMiOlsibW9kdWxlIiwiZXhwb3J0cyIsIk1hbmlmb2xkVmlld2VyIl0sIm1hcHBpbmdzIjoiOztBQUNBOztBQUVBQSxPQUFPQyxPQUFQLEdBQWlCLEVBQUVDLDhDQUFGLEVBQWpCIiwiZmlsZSI6ImluZGV4LmpzIiwic291cmNlc0NvbnRlbnQiOlsiXG5pbXBvcnQgeyBNYW5pZm9sZFZpZXdlciB9IGZyb20gJy4vTWFuaWZvbGRWaWV3ZXInO1xuXG5tb2R1bGUuZXhwb3J0cyA9IHsgTWFuaWZvbGRWaWV3ZXIgfTtcblxuIl19
