@@ -11,8 +11,6 @@
     "lodash": "^4.17.11",
     "rc-slider": "^8.6.3",
     "rc-switch": "^1.8.0",
-    "react": "^16.6.0",
-    "react-dom": "^16.6.0",
     "react-scripts": "2.0.5",
     "turntable-camera": "^1.0.0"
   },
@@ -21,7 +19,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "build-lib": "babel src/lib -d dist --source-maps inline"
+    "build-lib": "babel src/lib -d dist --source-maps inline --copy-files"
   },
   "eslintConfig": {
     "extends": "react-app"
