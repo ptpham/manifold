@@ -19,7 +19,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "build-lib": "babel src/lib -d dist --source-maps inline --copy-files"
+    "prepare": "babel src/lib -d dist --source-maps inline --copy-files"
   },
   "eslintConfig": {
     "extends": "react-app"
