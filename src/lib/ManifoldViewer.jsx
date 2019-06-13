@@ -107,7 +107,7 @@ export class ManifoldViewer extends React.Component {
     this.gl = canvas.getContext('webgl');
     let camera = this.camera = new TurntableCamera();
     camera.downwards = 0;
-    camera.distance = 3;
+    camera.distance = 4;
 
     let mouseDown = false;
     this._mouseUp = () => this.setState({ mouseDown: false });
