@@ -11,7 +11,7 @@
     "lodash": "^4.17.11",
     "rc-slider": "^8.6.3",
     "rc-switch": "^1.8.0",
-    "react-scripts": "2.0.5",
+    "react-scripts": "5.0.1",
     "turntable-camera": "^1.0.0"
   },
   "scripts": {
